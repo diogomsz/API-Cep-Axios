@@ -1,2 +1,6 @@
-# API-Cep-Axios
-Consumindo uma API CEP com Axios
+# API CEP
+## Informações
+> Consumo de API CEP com Axios (O que é: https://axios-http.com/ptbr/docs/intro).
+
+## Tecnologias utilizadas
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,axios,vscode)](https://skillicons.dev)
